@@ -1,6 +1,6 @@
 ## DBToaster Backend
 
-[DBToaster](http://www.dbtoaster.org) creates query engines for incremental view maintenance (IVM) by recursively computing the delta of each individual modification on the query result. This allow dramatic
+[DBToaster](http://www.dbtoaster.org) creates query engines for incremental view maintenance (IVM) by recursively computing the delta of each individual modification on the query result. This allows dramatic
 speedup over traditional database systems. More information:
 
    * [DB Toaster website](http://www.dbtoaster.org)
